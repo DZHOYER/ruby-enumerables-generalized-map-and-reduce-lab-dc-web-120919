@@ -1,8 +1,8 @@
 # Your Code Here
-def my_own_map ()
+def map ()
   
 end
 
-def my_own_reduce()
+def reduce()
 
 end
